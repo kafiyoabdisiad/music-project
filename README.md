@@ -104,7 +104,6 @@ Once the development server is up and running, you can access the project by ope
 
 
 
-<img src="./7b92bc35-6748-45fe-b743-4d0eaf25b440"
-" alt="Login Page" width="400">
+
 
 
