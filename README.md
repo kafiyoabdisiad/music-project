@@ -104,5 +104,7 @@ Once the development server is up and running, you can access the project by ope
 
 
 
+<img src="![Screenshot 2024-07-21 190744](https://github.com/user-attachments/assets/7b92bc35-6748-45fe-b743-4d0eaf25b440)
+" alt="Login Page" width="400">
 
 
