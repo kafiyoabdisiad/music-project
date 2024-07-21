@@ -103,8 +103,6 @@ This command will start the development server and automatically open the projec
 Once the development server is up and running, you can access the project by opening your web browser and navigating to the specified address (usually http://localhost:3000).
 
 
-<img src="./2024-07-21 190744.png"
-" alt="Music Page" width="400">
 
 
 
