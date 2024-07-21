@@ -1,6 +1,5 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [https://github.com/kafiyoabdisiad/music-project/.]
+github
+ [https://github.com/kafiyoabdisiad/music-project/.]
 
 ## Available Scripts
 
@@ -102,6 +101,10 @@ Step 04 : Run the Project:
 After installing dependencies, you can start the development server using the following command: npm start
 This command will start the development server and automatically open the project in your default web browser.
 Once the development server is up and running, you can access the project by opening your web browser and navigating to the specified address (usually http://localhost:3000).
+
+
+<img src="![Screenshot 2024-07-21 190744](https://github.com/user-attachments/assets/c232db3c-39a4-4334-bde9-2bc90e372780)
+" alt="Music Page" width="400">
 
 
 
