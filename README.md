@@ -94,13 +94,6 @@ Once the repository is cloned, navigate into the project directory using the cd 
 Replace <project_directory> with the name of the directory where the project was cloned.
 Step 03 : Install Dependencies:
 
-Inside the project directory, run the following command to install project dependencies using Yarn : npm install
-This command will read the package.json file and install all required dependencies listed in it.
-Step 04 : Run the Project:
-
-After installing dependencies, you can start the development server using the following command: npm start
-This command will start the development server and automatically open the project in your default web browser.
-Once the development server is up and running, you can access the project by opening your web browser and navigating to the specified address (usually http://localhost:3000).
 
 
 
